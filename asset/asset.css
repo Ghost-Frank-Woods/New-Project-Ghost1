@@ -1,3 +1,105 @@
 html{
     border: 10px solid royalblue;
 }
+
+html{
+    border: 10px solid royalblue;
+}
+
+
+
+
+.heder-menu.heder_menu_s{
+
+background: rgb(184, 28, 28);
+    color: rgb(204, 184, 184);
+}
+
+
+#romanlist{
+    background: rgb(184, 28, 28);
+    color: rgb(204, 184, 184);
+
+
+}
+
+
+
+
+
+a:hover[href="https://google.com"]{
+
+    color: rgb(20, 7, 7);
+    background: red;
+}
+
+a:hover[href*="con"]{
+
+    color: rgb(28, 103, 165);
+    background: rgb(17, 168, 67);
+}
+
+a[href="https://google.cpon."]{
+    background: brown;
+    color: #000;
+}
+
+
+
+
+a[href $="co4nn"]{
+
+    font-weight: 400;
+    color: rgb(92, 17, 17);
+
+    background-color: rgb(4, 9, 34);
+}
+
+
+
+/* a:hover[href]{    با این کار همه تگ های A ویژگی هاور رو میگیرن 
+
+    color: rgb(20, 7, 7);
+    background: red;
+} */
+
+
+ul.last_child li:last-child{
+    color: coral;
+    font-weight: 800;
+}
+
+ul.last_child li:first-child{
+    color: rgb(68, 47, 40);
+    font-weight: 800;
+}
+
+/* ul.last_child li::before{
+    content: "first item"; 
+    font-weight: 800;
+ }
+
+ul.last_child li::after{
+content: "last item"; 
+   font-weight: 800;
+} */
+
+
+li.first_child::after{
+    content: "last item"; 
+   font-weight: 800;
+
+}
+
+
+li.first_child::before{
+    content: "item"; 
+   font-weight: 800;
+
+}
+
+button:hover{
+    color: red;
+    background: blue;
+    border-radius: 100px;
+}

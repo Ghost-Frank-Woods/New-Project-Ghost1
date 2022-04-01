@@ -96,11 +96,9 @@ input.input_1:hover{
 .section_1{
     padding: 20px;
     color: rgb(17, 10, 19);
-    background:   border-box no-repeat url(imegs/pexels-mads-thomsen-2739013.jpg);
+    background: fixed  border-box no-repeat url(imegs/pexels-mads-thomsen-2739013.jpg);
     background-size: cover;
         font-family: "Vazir";
-        width: 100vh;
-        height: 100vh;
 
     
     

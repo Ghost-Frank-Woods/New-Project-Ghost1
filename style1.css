@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+
+    
+    }
+@font-face{
+    font-family: "Vazir";
+    font-size: medium ;
+    font-weight: bold;
+    src: url(font/fonts/webfonts/Vazirmatn-Medium.woff2) format("woff2");
+}
+
+
+.heder_m{
+
+margin: 0px;
+padding: 0px;
+filter: drop-shadow(8px 8px 50px rgb(236, 0, 0));
+font-family: "Vazir";
+
+}
+
+
+.heder_m:hover{
+
+    filter: drop-shadow(8px 8px 50px rgb(88, 71, 71));
+
+}
+
+.nav_1{
+
+    border: rgb(168, 101, 53)  double medium;
+    padding: 10px;
+    background:  border-box no-repeat url(./imegs/Leopard-Wallpapers-3.jpg);
+    background-size: ;
+    text-shadow: blue;
+    text-decoration: none;
+
+
+
+
+
+}
+
+button.hover_button_1:hover{
+    background-color: rgb(238, 4, 4);
+    color: rgb(255, 255, 255);
+    transition: color .5s;
+
+}
+
+
+button{
+    font-family: "Vazir";
+    filter: drop-shadow(16px 16px 20px rgb(255, 255, 255)) invert(75%);filter
+
+}
+
+.ul_1{
+
+    padding: 5px;
+
+}
+
+
+
+
+
+
+#A_1{
+
+    color: cadetblue;
+    text-decoration: none;
+
+
+}
+
+ a#A_1:hover{
+    background-color: rgb(104, 103, 101);
+    transition: background-color .5s;
+
+
+ }
+
+.input_1{
+    color: rgb(0, 0, 0);
+                             }
+
+input.input_1:hover{
+
+    background-color: rgb(255, 0, 0);
+    border-radius: 200px;
+    transition: background-color .5s;
+}
+
+.section_1{
+    padding: 20px;
+    color: rgb(17, 10, 19);
+    background: fixed  border-box no-repeat url(imegs/pexels-mads-thomsen-2739013.jpg);
+    background-size: cover;
+        font-family: "Vazir";
+
+    
+    
+}
+
+.google{
+
+    color: white;
+    padding: 5px;
+
+
+}
+
+.last_child{
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    background: no-repeat border-box url(imegs/Screenshot\ 2022-03-29\ 194304.png);
+    background-size: cover;
+
+
+}
+
+.footer_back{
+    background:repeat-x  border-box url(imegs/pexels-dominika-roseclay-1856422.jpg);
+    background-size: cover;
+    font-family: "Vazir";
+    text-decoration: none;
+
+
+}
+
+.index_1{
+
+    color: #000;
+    border: #000 solid  medium ;
+    width: 80px;
+    height: 17px;
+    padding: 4px;
+    margin: 0%;
+}
+
+
+.index_1_A{
+    color: rgb(0, 0, 0);
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    text-decoration: none;
+
+}
+
+
+.heder-menu_heder_menu_s{
+    border: solid rgb(255, 0, 0) ;
+    width: 90px;
+    height: 16px;
+    margin: 0%;
+    padding: 0%;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+    text-decoration: none;
+
+}
+
+.index_1_B{
+    color: aliceblue;
+text-decoration: none;
+}
+
+
+.index_1_B:hover{
+    background-color: rgb(255, 0, 0);
+    border-radius: 200px;
+    transition: background-color .5s;
+
+
+}
+
+
+.index_1_B_B{
+    padding: 5px;
+    /* display: inline-block; */
+
+
+}
+
+button:hover{
+    color: rgb(133, 39, 39);
+    transition: background-color .5s;
+    background-color: blue;
+}
+
+
+.index_1_C{
+    color: #000;
+    text-decoration: none;
+
+}
+
+
+
+ul li {
+    list-style-type: none;
+}
+
+.index_1_B_J{
+    text-decoration: none;
+}
+
+
+a{
+    text-decoration: none;
+    filter: drop-shadow(16px 16px 20px rgb(0, 0, 0)) invert(10%);filter;
+
+}

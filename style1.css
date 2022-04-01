@@ -32,7 +32,7 @@ font-family: "Vazir";
     border: rgb(168, 101, 53)  double medium;
     padding: 10px;
     background:  border-box no-repeat url(./imegs/Leopard-Wallpapers-3.jpg);
-    background-size: ;
+    /* background-size: ; */
     text-shadow: blue;
     text-decoration: none;
 
@@ -98,7 +98,7 @@ input.input_1:hover{
     color: rgb(17, 10, 19);
     background: fixed  border-box no-repeat url(imegs/pexels-mads-thomsen-2739013.jpg);
     background-size: cover;
-        font-family: "Vazir";
+    font-family: "Vazir";
 
     
     

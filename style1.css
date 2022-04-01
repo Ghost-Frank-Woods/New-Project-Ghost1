@@ -52,15 +52,15 @@ button.hover_button_1:hover{
 
 button{
     font-family: "Vazir";
-    filter: drop-shadow(16px 16px 20px rgb(255, 255, 255)) invert(75%);filter
+    filter: drop-shadow(16px 16px 20px rgb(255, 255, 255)) invert(75%);
 
 }
 
 .ul_1{
 
-    padding: 5px;}
+    padding: 5px;
 
-
+}
 
 
 
@@ -98,7 +98,7 @@ input.input_1:hover{
     color: rgb(17, 10, 19);
     background: fixed  border-box no-repeat url(imegs/pexels-mads-thomsen-2739013.jpg);
     background-size: cover;
-    font-family: "Vazir";
+        font-family: "Vazir";
 
     
     
@@ -208,6 +208,6 @@ ul li {
 
 a{
     text-decoration: none;
-    filter: drop-shadow(16px 16px 20px rgb(0, 0, 0)) invert(10%);filter;
+    filter: drop-shadow(16px 16px 20px rgb(0, 0, 0)) invert(10%);
 
 }
